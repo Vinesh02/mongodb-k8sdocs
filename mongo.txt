@@ -1,0 +1,1 @@
+decrypt command of k8s secrets :- echo -e 'cGFzc3dvcmQK' | base64 --decode
